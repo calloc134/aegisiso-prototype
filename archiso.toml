@@ -1,0 +1,15 @@
+[iso]
+name    = "archlinux"
+version = "202505"
+
+[pacman]
+arch     = "x86_64"
+packages = ["base", "linux", "vim"]
+
+[paths]
+work_dir = "work"
+out_dir  = "out"
+profile  = "profile"
+
+[sign]
+gpg_key = "0xDEADBEEF"
