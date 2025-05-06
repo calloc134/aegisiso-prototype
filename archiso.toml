@@ -12,4 +12,4 @@ out_dir  = "out"
 profile  = "profile"
 
 [sign]
-gpg_key = "0xDEADBEEF"
+gpg_key = ""
